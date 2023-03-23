@@ -4,6 +4,6 @@
 
 ### This is funny. You can search which card you want.
 
-## Here is the <a href="#">LINK</a> for visiting webside.
+## Here is the <a href="https://ozsoyibrahim.github.io/Pokedex/">LINK</a> for visiting webside.
 
 ![screen.gif](screen.gif)
